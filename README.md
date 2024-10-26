@@ -1,5 +1,82 @@
 # Student Management System
 
+A fully functional **Student Management System** built using **PHP**, **MySQL**, **HTML**, **CSS**, and **Bootstrap**. This application provides a streamlined way to manage students, track their attendance, record marks, and handle subject assignments in an intuitive and user-friendly interface.
 
+## 🚀 Features
+
+- **Student Management**: Easily add, view, edit, and delete student records.
+- **Attendance Tracking**: Record and track attendance for each student.
+- **Marks Management**: Record and view marks for various subjects.
+- **Subject Management**: Manage subject list with options to add, view, edit, and delete subjects.
+- **Authentication**: Secure login system to ensure data privacy and control access.
+- **Responsive UI**: Sidebar navigation for easy page access, and a modern design.
+
+## 🛠️ Technologies Used
+
+- **Frontend**: HTML, CSS, Bootstrap
+- **Backend**: PHP, MySQL
+- **Libraries**: Select2 (for searchable dropdowns)
+
+## 📸 Screenshots
+
+Include screenshots here for a better overview of the user interface.
+
+## 📂 Folder Structure
+
+- `index.php` - Main dashboard page.
+- `db.php` - Database connection file.
+- `add_student.php`, `view_student.php`, etc. - Feature-specific files.
+- `assets/` - Folder for CSS, JavaScript, and other assets.
+
+## 📝 Getting Started
+
+### Prerequisites
+
+- [XAMPP](https://www.apachefriends.org/index.html) or similar (for running PHP and MySQL).
+- Web browser to view the application.
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/sayan365/student-management-system.git
+   
+2. **Move the project to XAMPP's htdocs folder:**
+
+    - Place the cloned `student-management-system` folder inside the `htdocs` directory of your XAMPP installation.
+
+3. **Set up the database:**
+
+   - Open phpMyAdmin (usually accessible at [http://localhost/phpmyadmin](http://localhost/phpmyadmin)).
+   - Create a new database (e.g., `student_system`).
+   - Import the provided SQL file (`database.sql`) in the repository to set up the necessary tables.
+
+4. **Update database configurations:**
+
+   - In the `db.php` file, ensure that the database credentials (username, password, and database name) match those of your local environment.
+
+### Usage
+
+1. **Start XAMPP:**
+
+   - Launch XAMPP and start both Apache and MySQL.
+
+2. **Access the application:**
+
+   - Open your browser and navigate to [http://localhost/student-management-system/](http://localhost/student-management-system/).
+
+3. **Login:**
+
+   - Use the credentials set up in the database to log in. The application will redirect to the dashboard after a successful login.
+
+4. **Navigate through the system:**
+
+   - Use the sidebar for easy access to add, view, edit, and delete student data, attendance, marks, and subjects.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request or create an Issue for bug fixes, feature requests, or improvements.
+
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
