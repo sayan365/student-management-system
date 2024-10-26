@@ -18,6 +18,7 @@ A fully functional **Student Management System** built using **PHP**, **MySQL**,
 - **Libraries**: Select2 (for searchable dropdowns)
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/1458f1a1-6da1-440c-8984-de26cd958a29)
 
 Include screenshots here for a better overview of the user interface.
 
