@@ -57,13 +57,13 @@ Include screenshots here for a better overview of the user interface.
 
 ### Running the Application
 1. Start XAMPP:
-- Open XAMPP and start Apache and MySQL services.
+ - Open XAMPP and start Apache and MySQL services.
 
 3. Access the Application:
-- Go to http://localhost/student-management-system/ in your browser.
+ - Go to http://localhost/student-management-system/ in your browser.
 
 3. Login:
-- Use your credentials to log in (configured in the database).
+ - Use your credentials to log in (configured in the database).
 
 ### 🔄 Usage
 **Dashboard:** Access all main features from the main dashboard after logging in.
@@ -76,9 +76,12 @@ Authenticated access is required. Unauthorized users are redirected to the login
 
 ### 🤝 Contributing
 Contributions are welcome! To contribute:
-
 - Fork the repository.
 - Create a branch with descriptive naming (e.g., feature/new-feature).
 - Make your changes and create a pull request.
+  
 ### 📄 License
 This open-source project is available under the [MIT License](LICENSE).
+
+**Author**: Sayan  
+For any inquiries, feel free to contact me via GitHub or other platforms.
