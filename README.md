@@ -55,28 +55,30 @@ Include screenshots here for a better overview of the user interface.
 
    - In the `db.php` file, ensure that the database credentials (username, password, and database name) match those of your local environment.
 
-### Usage
+### Running the Application
+1. Start XAMPP:
+- Open XAMPP and start Apache and MySQL services.
 
-1. **Start XAMPP:**
+3. Access the Application:
+- Go to http://localhost/student-management-system/ in your browser.
 
-   - Launch XAMPP and start both Apache and MySQL.
+3. Login:
+- Use your credentials to log in (configured in the database).
 
-2. **Access the application:**
+### 🔄 Usage
+**Dashboard:** Access all main features from the main dashboard after logging in.
+**Manage Students:** Add, edit, view, or delete student information.
+**Track Attendance:** Record and view attendance details.
+**Manage Marks:** Add and view marks for each subject and student.
+**Manage Subjects:** Add, edit, view, or delete subject records.
+### 🔒 Authentication and Logout
+Authenticated access is required. Unauthorized users are redirected to the login page. Use the "Logout" button in the sidebar to end the session.
 
-   - Open your browser and navigate to [http://localhost/student-management-system/](http://localhost/student-management-system/).
+### 🤝 Contributing
+Contributions are welcome! To contribute:
 
-3. **Login:**
-
-   - Use the credentials set up in the database to log in. The application will redirect to the dashboard after a successful login.
-
-4. **Navigate through the system:**
-
-   - Use the sidebar for easy access to add, view, edit, and delete student data, attendance, marks, and subjects.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request or create an Issue for bug fixes, feature requests, or improvements.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+- Fork the repository.
+- Create a branch with descriptive naming (e.g., feature/new-feature).
+- Make your changes and create a pull request.
+### 📄 License
+This project is licensed under the MIT License - see the LICENSE file for more details.
