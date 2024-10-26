@@ -53,7 +53,7 @@ Include screenshots here for a better overview of the user interface.
 
 4. **Update database configurations:**
 
-   - In the `db.php` file, ensure that the database credentials (username, password, and database name) match those of your local environment.
+   - In the `db.php` file, ensure the database credentials (username, password, and database name) match your local environment.
 
 ### Running the Application
 1. Start XAMPP:
@@ -81,4 +81,4 @@ Contributions are welcome! To contribute:
 - Create a branch with descriptive naming (e.g., feature/new-feature).
 - Make your changes and create a pull request.
 ### 📄 License
-This project is licensed under the MIT License - see the LICENSE file for more details.
+This open-source project is available under the [MIT License](LICENSE).
