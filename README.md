@@ -18,9 +18,12 @@ A fully functional **Student Management System** built using **PHP**, **MySQL**,
 - **Libraries**: Select2 (for searchable dropdowns)
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/1458f1a1-6da1-440c-8984-de26cd958a29)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/1458f1a1-6da1-440c-8984-de26cd958a29)
+---
+![View Student Screenshot](https://github.com/user-attachments/assets/a1f44e89-46e1-41a1-8c37-6731529617b1)
+---
+![Add Student Screenshot](https://github.com/user-attachments/assets/5bc0e03a-4e81-4559-891e-7fb9722dcdd8)
 
-Include screenshots here for a better overview of the user interface.
 
 ## 📂 Folder Structure
 
@@ -83,6 +86,6 @@ Contributions are welcome! To contribute:
   
 ### 📄 License
 This open-source project is available under the [MIT License](LICENSE).
-
+---
 **Author**: Sayan  
 For any inquiries, feel free to contact me via GitHub or other platforms.
